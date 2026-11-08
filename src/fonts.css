@@ -1,0 +1,7 @@
+/* Self-hosted fonts (bundled, so they work offline). Latin subset only, to keep the app light. */
+@import "@fontsource/barlow/latin-400";
+@import "@fontsource/barlow/latin-500";
+@import "@fontsource/barlow/latin-600";
+@import "@fontsource/barlow/latin-700";
+@import "@fontsource/big-shoulders-display/latin-700";
+@import "@fontsource/big-shoulders-display/latin-800";
